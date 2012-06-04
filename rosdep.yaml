@@ -40,3 +40,6 @@ opencv2.3:
     oneiric:
       apt:
         packages: [libopencv2.3-dev=2.3.1+svn6514+branch23-12~oneiric]
+    precise:
+      apt:
+        packages: [libopencv-dev, libcv-dev, libhighgui-dev]
